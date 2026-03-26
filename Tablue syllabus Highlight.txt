@@ -1,0 +1,134 @@
+1. Introduction to Tableau
+
+Overview of Tableau and its components (Desktop, Server, Online, Prep)
+Tableau architecture
+Installing Tableau Desktop
+Tableau interface overview
+Connecting Tableau to data sources (Excel, CSV, SQL, Google Sheets)
+Tableau file types (.twb, .twbx, .tds, .tdsx, .hyper)
+Dimensions vs Measures, Discrete vs Continuous
+
+2. Data Connection and Preparation
+
+Connecting to different data sources
+Live vs Extract connection
+Data types and renaming fields
+Filtering data at connection
+Joins (Inner, Left, Right, Outer)
+Union of tables
+Data blending
+Pivoting and splitting data
+Tableau Prep basics
+
+3. Basic Charts and Visualization
+
+Text Tables / Crosstabs
+Bar Charts (Vertical, Horizontal)
+Line Charts
+Area Charts
+Pie Charts
+Scatter Plots
+Highlight Tables
+Heat Maps
+Tree Maps
+Symbol Maps
+Bubble Charts
+
+4. Advanced Charts
+
+Dual-axis charts
+Combo charts (Bar + Line)
+Gantt Charts
+Bullet Charts
+Packed Bubbles
+Histogram
+Box Plot / Whisker Plot
+Pareto Chart
+
+5. Calculations and Analytics
+
+Basic Calculated Fields
+String, Date, and Number functions
+Logical functions (IF, CASE, IIF)
+Table Calculations (Running Total, Percent of Total, Difference, Rank)
+LOD Expressions (Fixed, Include, Exclude)
+Parameterized calculations
+Using parameters for dynamic analysis
+
+6. Filters and Sorting
+
+Dimension Filters
+Measure Filters
+Relative Date Filters
+Top N Filters
+Context Filters
+Quick Filters
+Sorting (by field, manual, custom)
+
+7. Groups, Sets, and Hierarchies
+
+Creating Groups
+Creating Sets (Dynamic and Static)
+Hierarchies (Year > Quarter > Month > Day)
+Drill down and drill up
+Using hierarchies in visualization
+
+8. Dashboarding
+
+Creating dashboards
+Adding sheets, objects, and images
+Layout and sizing
+Device layouts (Desktop, Tablet, Mobile)
+Actions (Filter Action, URL Action, Highlight Action, Go to Sheet)
+Best practices for dashboard design
+Storytelling with Story Points
+
+9. Mapping and Geo Analytics
+
+Built-in geographic fields
+Symbol maps
+Filled maps
+Custom geocoding
+Map layers and background images
+Distance and radius calculations
+Using map filters
+
+10. Data Analytics and Insights
+
+Trend lines (Linear, Logarithmic, Exponential)
+Forecasting
+Reference lines, bands, and distributions
+Clustering
+Cohort analysis
+
+11. Tableau Prep / Data Cleaning
+
+Cleaning text, splitting columns
+Filtering and removing nulls
+Aggregations
+Joins and unions
+Outputting cleaned data to Tableau Hyper
+
+12. Tableau Server / Tableau Online (Basics)
+
+Publishing dashboards
+User access and permissions
+Scheduling extracts
+Subscriptions and alerts
+Sharing dashboards
+
+13. Performance and Optimization
+
+Using extracts vs live connections
+Reducing workbook size
+Optimizing calculations
+Minimizing filters and quick filters
+Best practices for large datasets
+
+14. Capstone / Practical Projects
+
+Sales Dashboard (Profit, Revenue, Growth)
+HR Dashboard (Employee count, Attrition rate, Department analysis)
+Stock Market Analysis Dashboard (Price trend, Volume, Moving Average)
+Customer Segmentation Dashboard (Clustering, RFM Analysis)
+Real-time data visualization with live SQL / Google Sheets
